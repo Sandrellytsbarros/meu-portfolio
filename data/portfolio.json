@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "src": "/img/placeholder-image.png",
+    "title": "Healthy Food",
+    "description": "Um aplicativo web que oferece receitas saudáveis, dicas nutricionais e um planejador de refeições personalizado, promovendo hábitos alimentares equilibrados e um estilo de vida saudável."
+  },
+  {
+    "id": "2",
+    "src": "/img/placeholder-image-1.png",
+    "title": "Spa Beauty",
+    "description": "Nosso aplicativo de Spa oferece reservas de tratamentos, dicas de bem-estar, informações sobre produtos e promoções exclusivas, para uma experiência relaxante e rejuvenescedora."
+  },
+  {
+    "id": "3",
+    "src": "/img/placeholder-image-2.png",
+    "title": "Easy Rent",
+    "description": "Easy Rent simplifica o processo de aluguel de imóveis com listagens de propriedades, agendamento de visitas, contratos digitais e pagamentos online, para locações sem estresse."
+  }
+]
