@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "src": "/img/product-chain-1.png",
+    "title": "Front-End",
+    "description": "Com ampla experiência em desenvolvimento front-end, trago habilidades sólidas em HTML, CSS e JavaScript, juntamente com frameworks modernos como React e Vue.js. Meu foco na usabilidade e na experiência do usuário garante interfaces web atraentes e funcionais."
+  },
+  {
+    "id": "2",
+    "src": "/img/tag-1.png",
+    "title": "Back-End",
+    "description": "Com experiência robusta em desenvolvimento back-end, domino linguagens como Python, Java e JavaScript, bem como frameworks populares como Node.js e Django. Tenho expertise em construir APIs escaláveis e sistemas robustos que impulsionam aplicações web dinâmicas."
+  },
+  {
+    "id": "3",
+    "src": "/img/feather-pen-2.png",
+    "title": "UI & UX Design",
+    "description": "Com habilidades sólidas em UI & UX Design, combino criatividade com uma abordagem centrada no usuário para criar interfaces intuitivas e visualmente atraentes. Minha experiência inclui pesquisa de usuário, brainstorming, wireframing, prototipagem e design responsivo."
+  },
+  {
+    "id": "4",
+    "src": "/img/feather-pen-1.png",
+    "title": "Webflow Development",
+    "description": "Com experiência em Webflow Development, desenvolvo sites e landing pages visualmente impressionantes e altamente funcionais. Utilizo as ferramentas do Webflow para criar experiências web personalizadas, otimizadas e responsivas, sem a necessidade de escrever código manualmente."
+  }
+]
